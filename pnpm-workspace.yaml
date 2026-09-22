@@ -1,0 +1,9 @@
+packages:
+  - .
+minimumReleaseAge: 2880
+onlyBuiltDependencies:
+  - bcrypt
+  - sharp
+allowBuilds:
+  bcrypt@5.1.1: true
+  sharp@0.34.5: true
