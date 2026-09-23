@@ -1,4 +1,3 @@
-// @ts-expect-error The stylesheet is loaded for its side effects by Next.js.
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
 
